@@ -1,0 +1,3 @@
+# Cpp-exercise
+
+Learning cpp
